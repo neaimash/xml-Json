@@ -1,0 +1,9 @@
+{
+  "news_item": {
+    "headline": "Good news!!",
+    "content": "This is the content...",
+    "source": "Science book",
+    "arrival_time_in_system": "25-10-2023 08:30:00",
+    "arrival_time_in_newspaper_system": "29-10-2023 09:15:00"
+  }
+}
