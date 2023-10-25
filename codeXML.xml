@@ -3,14 +3,14 @@
         <FirstName>Roni</FirstName>
 	    <LastName>Cohen</LastName>
 	    <Country>Scotland</Country>
-		<City>Edinburgh</City>
+	    <City>Edinburgh</City>
 	    <Address>ASD 3</Address>
 		<Age>3</Age>
 	    <Relatives>
 	        <Relative>
                 <FirstName>Relative 1 Name</FirstName>
                 <Age>30</Age>
-				<City>Jerusalem</City>
+		<City>Jerusalem</City>
                 <Address>Relative 1 Address</Address>
                 <Relationship>Relative 1 Relationship</Relationship>
                 <PhoneNumbers>
@@ -22,7 +22,7 @@
             <Relative>
                 <FirstName>Relative 2 Name</FirstName>
                 <Age>6</Age>
-				<City>TLV</City>
+		<City>TLV</City>
                 <Address>Relative 2 Address</Address>
                 <Relationship>Relative 2 Relationship</Relationship>
                 <PhoneNumbers>
@@ -32,7 +32,7 @@
             </Relative>
             <Relative>
                 <FirstName>Relative 3 Name</FirstName>
-				<City>Edinburgh</City>
+		<City>Edinburgh</City>
                 <Age>70</Age>
                 <Address>Relative 3 Address</Address>
                 <Relationship>Relative 3 Relationship</Relationship>
